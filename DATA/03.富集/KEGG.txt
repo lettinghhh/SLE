@@ -1,0 +1,2 @@
+ID	Description	GeneRatio	BgRatio	pvalue	p.adjust	qvalue	geneID	Count
+hsa04217	Necroptosis	2/2	159/8113	0.000381719892903273	0.00496235860774255	0.00160724165432957	5610/81030	2
